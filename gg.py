@@ -1,4 +1,3 @@
 gg= input("type gg")
 
-print(gg)
-gg
+print(gg)print(gg)
